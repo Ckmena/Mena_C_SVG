@@ -1,1 +1,2 @@
-# Mena_C_SVG
+# SVG project 
+## Web page + JS 
